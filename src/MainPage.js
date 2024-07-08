@@ -2,8 +2,8 @@ import React from "react";
 import Main from "./Main/Main";
 import Programs from "./Programs/Programs";
 import SecondSection from "./SecondSection/SecondSection";
-import Show_section_pic from "./SecondSection/ShowSection_pic";
-import Unit_box from "./Unit_box/Unit_box";
+import Show_section_pic from "./SecondSection/ShowSectionPic";
+import Unit_box from "./Unit_box/UnitBox";
 import Form from "./Form/Form";
 
 function MainPage() {

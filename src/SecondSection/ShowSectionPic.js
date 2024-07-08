@@ -4,7 +4,7 @@ import styles from "./SecondSection.module.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-function Show_section_pic() {
+function ShowSectionPic() {
   useEffect(() => {
     AOS.init();
   }, []);
@@ -29,4 +29,4 @@ function Show_section_pic() {
   );
 }
 
-export default Show_section_pic;
+export default ShowSectionPic;

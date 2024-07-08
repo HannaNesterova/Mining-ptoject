@@ -1,7 +1,7 @@
 import unit_data from "./unitData";
 import styles from "./Unit_box.module.css";
 
-function Show_unit_data() {
+function ShowUnitData() {
   return (
     <div className={styles.unit_data}>
       <h3>
@@ -19,4 +19,4 @@ function Show_unit_data() {
   );
 }
 
-export default Show_unit_data;
+export default ShowUnitData;
