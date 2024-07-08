@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import second_section_data from "./secondSrction_data";
+import second_section_data from "./secondSrctionData";
 import styles from "./SecondSection.module.css";
 import AOS from "aos";
 import "aos/dist/aos.css";

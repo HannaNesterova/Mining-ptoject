@@ -2,9 +2,9 @@ import React from "react";
 import Main from "./Main/Main";
 import Programs from "./Programs/Programs";
 import SecondSection from "./SecondSection/SecondSection";
-import Show_section_pic from "./SecondSection/ShowSectionPic";
-import Unit_box from "./Unit_box/UnitBox";
 import Form from "./Form/Form";
+import UnitBox from "./Unit_box/UnitBox";
+import ShowSectionPic from "./SecondSection/ShowSectionPic";
 
 function MainPage() {
   console.log("Rendering MainPage");
@@ -16,13 +16,13 @@ function MainPage() {
           <Main />
         </section>
         <section id="unit">
-          <Unit_box />
+          <UnitBox />
         </section>
         <section id="statistic">
           <SecondSection />
         </section>
         <section id="team">
-          <Show_section_pic />
+          <ShowSectionPic />
         </section>
         <section id="partners">
           <Programs />

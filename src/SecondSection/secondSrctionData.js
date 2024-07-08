@@ -3,7 +3,7 @@ import img2 from "../img/section_2.png";
 import img3 from "../img/section_3.png";
 import img4 from "../img/section_4.png";
 
-const second_section_data = [
+const secondSrctionData = [
   {
     id: 1,
     img: img1,
@@ -26,4 +26,4 @@ const second_section_data = [
   },
 ];
 
-export default second_section_data;
+export default secondSrctionData;
