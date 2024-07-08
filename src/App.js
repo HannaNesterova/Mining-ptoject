@@ -31,7 +31,7 @@ import Footer from "./Footer/Footer";
 import MainPage from "./MainPage";
 import Programs from "./Programs/Programs";
 import SecondSection from "./SecondSection/SecondSection";
-import Show_section_pic from "./SecondSection/Show_section_pic";
+import Show_section_pic from "./SecondSection/ShowSection_pic";
 import Unit_box from "./Unit_box/Unit_box";
 
 function App() {

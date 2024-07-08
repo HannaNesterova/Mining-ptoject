@@ -3,7 +3,7 @@ import styles from "./Unit_box.module.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import spaceCar from "../img/space_car.png";
-import Show_unit_data from "./Show_unit_data";
+import Show_unit_data from "./ShowUnit_data";
 
 function Unit_box() {
   useEffect(() => {

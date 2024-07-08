@@ -1,4 +1,4 @@
-import unit_data from "./unit_data";
+import unit_data from "./unitData";
 import styles from "./Unit_box.module.css";
 
 function Show_unit_data() {
